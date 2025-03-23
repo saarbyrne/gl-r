@@ -1,2 +1,2 @@
-# gl-r
+# glór
 Empowering Irish Voices
